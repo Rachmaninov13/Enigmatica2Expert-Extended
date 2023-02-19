@@ -53,7 +53,7 @@ BiomeSizeWhenBorder: 6
 
 BiomeHeight: -2.8
 
-BiomeVolatility: 0.5
+BiomeVolatility: 1.5
 
 SmoothRadius: 16
 
@@ -61,7 +61,7 @@ CustomHeightControlSmoothRadius: 2
 
 MaxAverageHeight: 0.0
 
-MaxAverageDepth: -0.7
+MaxAverageDepth: 0.5
 
 Volatility1: -1.0
 
